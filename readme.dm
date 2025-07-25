@@ -1,2 +1,1 @@
-HELLO WORLD
-THIS IS A DEMO FILE
+This is a file containing RAG with Langchain implementation and explaination
